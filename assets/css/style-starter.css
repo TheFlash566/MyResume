@@ -27,6 +27,13 @@ Author URL: http://w3layouts.com
   background-position: inherit !important;
 }
 
+.mon {
+  margin-top: 10px;
+}
+
+.mt-4 {
+  line-height: 20px !important;
+}
 #home {
   padding-bottom: 4px !important;
 }
